@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Dhama</h1>
 <h3 align="center">CSE B.Tech student | Full-Stack Web & Java Developer</h3>
 
-![logo]()
+![logo](https://github.com/Sumit19dhama/Sumit19dhama/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit19dhama&label=Profile%20views&color=0e75b6&style=flat" alt="sumit19dhama" /> </p>
 
 - 🔭 I’m currently working on **ATM machine desktop application**
